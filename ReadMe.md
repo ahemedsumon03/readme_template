@@ -36,10 +36,13 @@ My name is Mamun <hr/>
 </html>
 ```
 
-`function say()`  
-`{`  
-   `console.log('hello')`  
-`}`
+```
+function say()
+{
+  console.log('hello');
+}
+
+```
 
 <ol>
   <li>one</li>
